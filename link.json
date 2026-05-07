@@ -1,15 +1,14 @@
 [
-{
-"id":"1",
-"title":"إصدار قانون في شأن التحكيم في المواد المدنية والتجارية",
-"link":"https://raw.githubusercontent.com/mostafaaamen/law/refs/heads/main/Egypt/1.json",
-"year":"1994"
-},
-{
-"id":"2",
-"title":" قانون رقم 174 لسنة 2025  - بشأن إصدار قانون الإجراءات الجنائية",
-"link":"https://raw.githubusercontent.com/mostafaaamen/law/refs/heads/main/Egypt/2.json",
-"year":"2025"
-},
-
+    {
+        "id": "1",
+        "title": "إصدار قانون في شأن التحكيم في المواد المدنية والتجارية",
+        "link": "https://raw.githubusercontent.com/mostafaaamen/law/refs/heads/main/Egypt/1.json",
+        "year": "1994"
+    },
+    {
+        "id": "2",
+        "title": " قانون رقم 174 لسنة 2025  - بشأن إصدار قانون الإجراءات الجنائية",
+        "link": "https://raw.githubusercontent.com/mostafaaamen/law/refs/heads/main/Egypt/2.json",
+        "year": "2025"
+    }
 ]
